@@ -1,0 +1,8 @@
+git init
+	- Inicializa uma pasta .git dentro do arquivo
+git add
+	- Adiciona qualquer arquivo novo encontrado na pasta em questão, ao staged
+git push
+	- Envia atualizações ao repositório do GitHub
+git commit
+	- Comita atualizações e mudanças realizadas
